@@ -3,5 +3,4 @@ matplotlib
 ipywidgets
 jupyter_contrib_nbextensions
 opencv-python
-copy
 math
