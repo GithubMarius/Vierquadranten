@@ -2,6 +2,6 @@ numpy
 matplotlib
 ipywidgets
 jupyter_contrib_nbextensions
-cv2
+opencv-python
 copy
 math
