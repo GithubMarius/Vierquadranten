@@ -7,9 +7,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 import ipywidgets as widgets
 
-import matplotlib as mpl
-mpl.rcParams['text.usetex'] = True
-mpl.rcParams['text.latex.preamble'] = [r'\usepackage{amsmath}']
+#import matplotlib as mpl
+#mpl.rcParams['text.usetex'] = True
+#mpl.rcParams['text.latex.preamble'] = [r'\usepackage{amsmath}']
 
 # Open diagram
 # Original Source = https://de.wikipedia.org/wiki/Verbrauchskennfeld#/media/File:Brake_specific_fuel_consumption.svg
