@@ -651,7 +651,6 @@ def multi_gear_plot():
                 g.set_linestyle('-')
             for p in pro:
                 p.set_visible(False)
-                p.set_linewidth(1)
 
         elif Auslegung == 'progressiv':
             for g in geo:
@@ -659,7 +658,6 @@ def multi_gear_plot():
                 g.set_linewidth(1)
             for p in pro:
                 p.set_visible(True)
-                p.set_linewidth(1)
         else:
             for g in geo:
                 g.set_visible(True)
@@ -667,4 +665,3 @@ def multi_gear_plot():
                 g.set_linestyle('--')
             for p in pro:
                 p.set_visible(True)
-                p.set_linewidth(.5)

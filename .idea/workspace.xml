@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9374fbce-0a08-41e1-9736-8e81f61ac03d" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vierquadranten-Diagramm.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Vierquadranten-Diagramm.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/graphics_module.py" beforeDir="false" afterPath="$PROJECT_DIR$/graphics_module.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,8 +18,11 @@
       <file leaf-file-name="graphics_module.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/graphics_module.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            <state relative-caret-position="241">
+              <caret line="651" column="21" selection-start-line="651" selection-start-column="21" selection-end-line="651" selection-end-column="21" />
+              <folding>
+                <element signature="e#11#21#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -43,9 +47,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1707" />
-    <option name="width" value="862" />
-    <option name="height" value="1398" />
+    <option name="x" value="-9" />
+    <option name="width" value="1119" />
+    <option name="height" value="1399" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -107,21 +111,28 @@
       <option name="project" value="LOCAL" />
       <updated>1545334424280</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fix display problems.">
+      <created>1545335613334</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1545335613334</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1366" y="0" width="689" height="1118" extended-state="0" />
+    <frame x="-7" y="0" width="895" height="1119" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.398773" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3030303" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.43558282" side_tool="true" visible="true" weight="0.32892057" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" sideWeight="0.43473193" side_tool="true" visible="true" weight="0.32858595" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49941656" weight="0.3299389" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4995206" weight="0.3292683" />
       <window_info anchor="bottom" id="Python Console" order="7" sideWeight="0.49880478" weight="0.3299389" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.5644172" visible="true" weight="0.32892057" />
+      <window_info anchor="bottom" id="Terminal" order="7" sideWeight="0.56526804" visible="true" weight="0.32858595" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -140,7 +151,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Minor fix." />
-    <option name="LAST_COMMIT_MESSAGE" value="Minor fix." />
+    <MESSAGE value="Fix display problems." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fix display problems." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Vierquadranten-Diagramm.ipynb">
@@ -187,8 +199,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/graphics_module.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        <state relative-caret-position="241">
+          <caret line="651" column="21" selection-start-line="651" selection-start-column="21" selection-end-line="651" selection-end-column="21" />
+          <folding>
+            <element signature="e#11#21#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
