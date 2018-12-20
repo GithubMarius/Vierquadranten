@@ -384,6 +384,8 @@ def resistance_plot():
 
     plt.ylim(-500, 3000)
 
+    ax_res.grid(True)
+
     def F(fr, m, cwA, vwind, a, alpha, v, als_Leistung, ax):
         fwr_vals = FWR(v, fr, m)
         fws_vals = FWS(v, alpha, m)
